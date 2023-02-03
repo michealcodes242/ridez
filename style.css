@@ -130,6 +130,7 @@ form:hover, :focus {
 
 
 .menu-ctn{
+  z-index: 1;
   position: absolute;
   background-color: #1F1F1F;
   width:100%;
@@ -424,7 +425,7 @@ footer .content .link-boxes .box{
 }
 .content .link-boxes .box .link_name{
   color: #fff;
-  font-size: 18px;
+  font-size: 19px;
   font-weight: 400;
   margin-bottom: 10px;
   position: relative;
@@ -444,7 +445,7 @@ footer .content .link-boxes .box{
 }
 .content .link-boxes .box li a{
   color: #fff;
-  font-size: 14px;
+  font-size: 12px;
   font-weight: 400;
   text-decoration: none;
   opacity: 0.8;
